@@ -1,5 +1,5 @@
 # GeoSensor-Movement-Predictor
-Linear Regression ML Model To Predict Type Of Movement Based On GeoSensor Dataset
+Linear Regression ML Model To Predict Type Of Movement Based On GeoSensor Dataset (walking, running.. )
 
 - Dataset included as CSV
 - Model trainer script included
